@@ -1,7 +1,13 @@
 **Task Manager App**
-Stay organized and boost productivity! 
-The Task Manager App lets you easily create, update, and track your tasks in one simple interface. 
-Whether it’s personal to-dos or work projects, this app helps you stay on top of what matters most.
+is a simple and intuitive application designed to help users organize, track, and manage their tasks efficiently.
 
-Develope using Python and Flask
+**Key Features**
+Add Tasks: Quickly create new tasks with a title, description, and optional due date.
+Update Tasks: Edit task details as priorities change.
+Delete Tasks: Remove completed or unnecessary tasks easily.
+View Tasks: See all your tasks in a structured list or categorized view.
+Task Status: Mark tasks as pending, in progress, or completed to track progress
+
+
+Developed using Python and Flask
 
