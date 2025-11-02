@@ -18,9 +18,10 @@ class Task:
         if status:
             self.status = status
 
+    # Method to return the values as dictionary
     def to_dict(self):
         return {"id": self.id,
-                "title":self.title,
+                "title": self.title,
                 "description": self.description,
                 "status": self.status}
 
@@ -28,7 +29,7 @@ class Task:
 
 
 
-    #Method to return the values as dictionary
+
 
 
 
